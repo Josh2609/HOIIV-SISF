@@ -6,4 +6,5 @@ tags={
 	"Fixes"
 	"Military"
 }
-supported_version="1.5.3"
+remote_file_id="1342227234"
+supported_version="1.5.*"
