@@ -6,5 +6,6 @@ tags={
 	"Fixes"
 	"Military"
 }
+picture="image.png"
 remote_file_id="1342227234"
-supported_version="1.5.*"
+supported_version="1.6.*"
